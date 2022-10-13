@@ -1,0 +1,5 @@
+import java.uti;.*;
+class codecore{
+public static void main(){
+Scanner sc=new Scanner(System.in);
+System.out.println("Kindly provide the inputs");
